@@ -19,4 +19,4 @@ The script will perform the following tasks, in order:
 1. Plot corrected VADER scores as Team Average (X) vs Individual (Y) by cohort, each cohort gets a subplot.
 1. Saves out summary tables and the composite figure to file
 
-Key lines where the user may want to make stylistic or functional changes are marked with: #!#
+Key lines where the user may want to make stylistic or functional changes are marked with: *#!#*
