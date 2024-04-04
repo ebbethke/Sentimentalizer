@@ -1,0 +1,5 @@
+#Random python stuff
+*.bak
+
+#Office Temp Files
+~$*
