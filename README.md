@@ -10,7 +10,7 @@ Python pipeline for applying VADER (nltk) to student group free response items t
 
 ## How it works
 The script will perform the following tasks, in order:
-1. Read in the CSV file with the Google data in it. 
+1. Read in the CSV file with the Google Forms data in it. 
 1. Split the responses up by cutoff dates (to divide into cohorts)
 1. Edit the response text to realign any questions asked with negative connotation
 1. Compute VADER sentiment scores and break out 'pos', 'neu', 'neg', 'compound' for desired questions
